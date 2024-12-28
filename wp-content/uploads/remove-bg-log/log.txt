@@ -1,0 +1,20 @@
+Start at: 2024-12-26 03:00:27
+With parameters:
+RemoveBG Api key: 
+
+
+Choose target products: 
+Remove background from all products
+
+Choose target images: 
+Main image
+Product gallery
+
+
+Resize bigger images proportionally:
+auto
+
+Make new background:
+transparent
+
+[2024-12-26 03:00:27] Error de eliminación del fondo: Falta la clave de la API 
